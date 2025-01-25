@@ -1,2 +1,2 @@
 # test-2
-Sample programs to learn the stuffs.
+Sample programs to learn the things.
